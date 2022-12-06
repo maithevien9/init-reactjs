@@ -1,0 +1,6 @@
+{
+  "extends": ["@enouvo/eslint-config-react"],
+  "rules": {
+    "react/jsx-max-depth": ["error", { "max": 10 }]
+  }
+}
